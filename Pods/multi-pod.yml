@@ -13,3 +13,9 @@ spec:
     args: ["-nginx.scrape-uri","http://localhost/nginx_status"]
     ports:
     - containerPort: 9113
+
+
+
+#more info on multi-pod.yml look at course Kubernetes for developers 
+#intergrating with Volumes and Using Multi-Container Pods - Nigel Poulton
+#https://app.pluralsight.com/library/courses/kubernetes-developers-integrating-volumes-using-multi-container-pods/table-of-contents
